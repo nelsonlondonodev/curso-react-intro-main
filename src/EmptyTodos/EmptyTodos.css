@@ -1,0 +1,11 @@
+.CrearTodo {
+  color: rgb(97, 218, 250);
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.CrearTodo span {
+  color: black;
+}
