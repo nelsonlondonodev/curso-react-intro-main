@@ -7,7 +7,7 @@ function TodoSearch() {
 
   return (
     <input
-      placeholder="New task"
+      placeholder="Search a TODO"
       className="TodoSearch"
       value={searchValue}
       onChange={(event) => {
